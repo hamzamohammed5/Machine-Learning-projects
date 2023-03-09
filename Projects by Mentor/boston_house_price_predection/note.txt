@@ -1,0 +1,1 @@
+In this supervised machine learning project i have used XGBRegressor (decision tree) algorithm, and the data from sklearn datasets
