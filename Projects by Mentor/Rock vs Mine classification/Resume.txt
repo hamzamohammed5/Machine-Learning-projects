@@ -6,4 +6,4 @@ the processes i have made:
 3- making a predictive system
 
 
-data Link: https://drive.google.com/file/d/1pQxtljlNVh0DHYg-Ye7dtpDTlFceHVfa/view
+Link of the data set: https://drive.google.com/file/d/1pQxtljlNVh0DHYg-Ye7dtpDTlFceHVfa/view
